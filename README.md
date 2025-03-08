@@ -33,6 +33,7 @@ my solutions on LeetCode problems
 | [0056-merge-intervals](https://github.com/MikhailPotter/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/MikhailPotter/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -43,6 +44,7 @@ my solutions on LeetCode problems
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MikhailPotter/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MikhailPotter/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -95,6 +97,7 @@ my solutions on LeetCode problems
 | [0016-3sum-closest](https://github.com/MikhailPotter/LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MikhailPotter/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
 ## Linked List
 |  |
 | ------- |
