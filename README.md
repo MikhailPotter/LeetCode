@@ -44,4 +44,9 @@ my solutions on LeetCode problems
 | ------- |
 | [0006-zigzag-conversion](https://github.com/MikhailPotter/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/MikhailPotter/LeetCode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/MikhailPotter/LeetCode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MikhailPotter/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
