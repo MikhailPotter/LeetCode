@@ -25,6 +25,7 @@ my solutions on LeetCode problems
 | [0041-first-missing-positive](https://github.com/MikhailPotter/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/MikhailPotter/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/MikhailPotter/LeetCode/tree/master/0055-jump-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -93,6 +94,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/MikhailPotter/LeetCode/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -110,4 +112,8 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MikhailPotter/LeetCode/tree/master/0050-powx-n) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/MikhailPotter/LeetCode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
