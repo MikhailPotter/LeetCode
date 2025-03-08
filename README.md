@@ -16,6 +16,7 @@ my solutions on LeetCode problems
 | [0004-median-of-two-sorted-arrays](https://github.com/MikhailPotter/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/MikhailPotter/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MikhailPotter/LeetCode/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MikhailPotter/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -24,6 +25,7 @@ my solutions on LeetCode problems
 | [0015-3sum](https://github.com/MikhailPotter/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MikhailPotter/LeetCode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MikhailPotter/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MikhailPotter/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
