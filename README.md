@@ -15,6 +15,7 @@ my solutions on LeetCode problems
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MikhailPotter/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MikhailPotter/LeetCode/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
@@ -36,6 +37,7 @@ my solutions on LeetCode problems
 | [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -111,6 +113,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
 | ------- |
