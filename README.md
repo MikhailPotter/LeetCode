@@ -50,6 +50,7 @@ my solutions on LeetCode problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/MikhailPotter/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -93,6 +94,7 @@ my solutions on LeetCode problems
 | [0058-length-of-last-word](https://github.com/MikhailPotter/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MikhailPotter/LeetCode/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Trie
 |  |
 | ------- |
