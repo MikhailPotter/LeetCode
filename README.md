@@ -7,6 +7,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MikhailPotter/LeetCode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/MikhailPotter/LeetCode/tree/master/0013-roman-to-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
@@ -28,6 +29,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/MikhailPotter/LeetCode/tree/master/0013-roman-to-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -41,4 +43,5 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/MikhailPotter/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/MikhailPotter/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
