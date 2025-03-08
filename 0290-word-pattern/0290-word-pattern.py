@@ -14,5 +14,4 @@ class Solution:
             else:
                 dic[pattern[i]] = ss[i]
         return True
-
-        
+                
