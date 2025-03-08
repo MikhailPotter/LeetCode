@@ -8,6 +8,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0009-palindrome-number](https://github.com/MikhailPotter/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MikhailPotter/LeetCode/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/MikhailPotter/LeetCode/tree/master/0043-multiply-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
@@ -35,6 +36,7 @@ my solutions on LeetCode problems
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/MikhailPotter/LeetCode/tree/master/0043-multiply-strings) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -62,6 +64,7 @@ my solutions on LeetCode problems
 | [0020-valid-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/MikhailPotter/LeetCode/tree/master/0043-multiply-strings) |
 ## Trie
 |  |
 | ------- |
