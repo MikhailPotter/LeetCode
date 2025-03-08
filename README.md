@@ -34,6 +34,7 @@ my solutions on LeetCode problems
 | [0066-plus-one](https://github.com/MikhailPotter/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -116,6 +117,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
 ## String Matching
 |  |
 | ------- |
@@ -138,6 +140,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
