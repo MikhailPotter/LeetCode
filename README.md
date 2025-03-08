@@ -6,6 +6,7 @@ my solutions on LeetCode problems
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MikhailPotter/LeetCode/tree/master/0009-palindrome-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
