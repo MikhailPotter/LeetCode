@@ -41,6 +41,7 @@ my solutions on LeetCode problems
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikhailPotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/MikhailPotter/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -176,4 +177,8 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/MikhailPotter/LeetCode/tree/master/0223-rectangle-area) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/MikhailPotter/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
