@@ -23,6 +23,7 @@ my solutions on LeetCode problems
 | [0036-valid-sudoku](https://github.com/MikhailPotter/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/MikhailPotter/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/MikhailPotter/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -47,6 +48,7 @@ my solutions on LeetCode problems
 | [0013-roman-to-integer](https://github.com/MikhailPotter/LeetCode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/MikhailPotter/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/MikhailPotter/LeetCode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -67,6 +69,7 @@ my solutions on LeetCode problems
 | [0022-generate-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/MikhailPotter/LeetCode/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
@@ -76,6 +79,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0015-3sum](https://github.com/MikhailPotter/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/MikhailPotter/LeetCode/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
