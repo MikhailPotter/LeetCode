@@ -161,4 +161,8 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/MikhailPotter/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
