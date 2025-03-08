@@ -35,6 +35,7 @@ my solutions on LeetCode problems
 | [0074-search-a-2d-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -63,6 +64,7 @@ my solutions on LeetCode problems
 | [0036-valid-sudoku](https://github.com/MikhailPotter/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/MikhailPotter/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -147,4 +149,8 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MikhailPotter/LeetCode/tree/master/0070-climbing-stairs) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
