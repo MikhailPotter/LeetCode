@@ -12,6 +12,7 @@ my solutions on LeetCode problems
 | [0048-rotate-image](https://github.com/MikhailPotter/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/MikhailPotter/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MikhailPotter/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
@@ -45,6 +46,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MikhailPotter/LeetCode/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -76,6 +78,7 @@ my solutions on LeetCode problems
 | [0043-multiply-strings](https://github.com/MikhailPotter/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MikhailPotter/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -121,4 +124,8 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/MikhailPotter/LeetCode/tree/master/0055-jump-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
