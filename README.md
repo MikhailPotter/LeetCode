@@ -58,6 +58,7 @@ my solutions on LeetCode problems
 | [0151-reverse-words-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikhailPotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -108,6 +109,7 @@ my solutions on LeetCode problems
 | [0151-reverse-words-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MikhailPotter/LeetCode/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
 |  |
 | ------- |
