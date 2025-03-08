@@ -18,6 +18,7 @@ my solutions on LeetCode problems
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/MikhailPotter/LeetCode/tree/master/0223-rectangle-area) |
+| [0263-ugly-number](https://github.com/MikhailPotter/LeetCode/tree/master/0263-ugly-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
