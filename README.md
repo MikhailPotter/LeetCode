@@ -75,6 +75,7 @@ my solutions on LeetCode problems
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
@@ -103,6 +104,7 @@ my solutions on LeetCode problems
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MikhailPotter/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
 | ------- |
@@ -115,6 +117,7 @@ my solutions on LeetCode problems
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MikhailPotter/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
