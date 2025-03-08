@@ -13,6 +13,7 @@ my solutions on LeetCode problems
 | [0050-powx-n](https://github.com/MikhailPotter/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/MikhailPotter/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/MikhailPotter/LeetCode/tree/master/0070-climbing-stairs) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
@@ -103,6 +104,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/MikhailPotter/LeetCode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/MikhailPotter/LeetCode/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -128,4 +130,8 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/MikhailPotter/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
