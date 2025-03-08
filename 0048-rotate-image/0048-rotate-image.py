@@ -8,4 +8,3 @@ class Solution:
             for j in range(n//2 + 1):
                 matrix[i][j], matrix[j][n-i], matrix[n-i][n-j], matrix[n-j][i] = \
                 matrix[n-j][i], matrix[i][j], matrix[j][n-i], matrix[n-i][n-j]
-        
