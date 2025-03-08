@@ -16,6 +16,7 @@ my solutions on LeetCode problems
 | [0069-sqrtx](https://github.com/MikhailPotter/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MikhailPotter/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
@@ -53,6 +54,7 @@ my solutions on LeetCode problems
 | [0125-valid-palindrome](https://github.com/MikhailPotter/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikhailPotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
@@ -70,6 +72,7 @@ my solutions on LeetCode problems
 | [0041-first-missing-positive](https://github.com/MikhailPotter/LeetCode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
