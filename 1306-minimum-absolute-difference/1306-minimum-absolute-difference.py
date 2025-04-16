@@ -3,9 +3,11 @@ class Solution:
         arr_sorted = sorted(arr)
 
         min_diff = -1
+        last_index = 0
         for i in range(len(arr_sorted) - 1):
-            if min_diff == -1 or arr_sorted[i+1] - arr_sorted[i] < min_diff:
+            if min_diff == -1 or arr_sorted[i+1] - arr_sorted[i] <= min_diff:
                 min_diff = arr_sorted[i+1] - arr_sorted[i]
+                last_index = i
         
         p = 0
         res = list()
@@ -13,5 +15,7 @@ class Solution:
             if arr_sorted[p+1] - arr_sorted[p] == min_diff:
                 res.append([arr_sorted[p], arr_sorted[p+1]])
             p += 1
+            if p > last_index:
+                break
         
         return res
