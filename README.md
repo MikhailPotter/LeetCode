@@ -47,6 +47,7 @@ my solutions on LeetCode problems
 | [0238-product-of-array-except-self](https://github.com/MikhailPotter/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MikhailPotter/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -86,6 +87,7 @@ my solutions on LeetCode problems
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/MikhailPotter/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MikhailPotter/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Binary Search
 |  |
