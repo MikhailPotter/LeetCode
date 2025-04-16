@@ -20,6 +20,7 @@ my solutions on LeetCode problems
 | [0223-rectangle-area](https://github.com/MikhailPotter/LeetCode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/MikhailPotter/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
+| [1395-minimum-time-visiting-all-points](https://github.com/MikhailPotter/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ my solutions on LeetCode problems
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MikhailPotter/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1395-minimum-time-visiting-all-points](https://github.com/MikhailPotter/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MikhailPotter/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -203,6 +205,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/MikhailPotter/LeetCode/tree/master/0223-rectangle-area) |
+| [1395-minimum-time-visiting-all-points](https://github.com/MikhailPotter/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Prefix Sum
 |  |
 | ------- |
