@@ -42,6 +42,7 @@ my solutions on LeetCode problems
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikhailPotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MikhailPotter/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -78,6 +79,7 @@ my solutions on LeetCode problems
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MikhailPotter/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -125,6 +127,7 @@ my solutions on LeetCode problems
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/MikhailPotter/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
