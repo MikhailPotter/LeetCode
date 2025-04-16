@@ -43,6 +43,7 @@ my solutions on LeetCode problems
 | [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MikhailPotter/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/MikhailPotter/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikhailPotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
@@ -195,6 +196,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/MikhailPotter/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
