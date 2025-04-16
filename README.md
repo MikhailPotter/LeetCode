@@ -19,6 +19,7 @@ my solutions on LeetCode problems
 | [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/MikhailPotter/LeetCode/tree/master/0223-rectangle-area) |
 | [0263-ugly-number](https://github.com/MikhailPotter/LeetCode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MikhailPotter/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Array
 |  |
@@ -44,6 +45,7 @@ my solutions on LeetCode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikhailPotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MikhailPotter/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -81,6 +83,7 @@ my solutions on LeetCode problems
 | [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/MikhailPotter/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -92,6 +95,7 @@ my solutions on LeetCode problems
 | [0069-sqrtx](https://github.com/MikhailPotter/LeetCode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikhailPotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,6 +133,7 @@ my solutions on LeetCode problems
 | [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -173,6 +178,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
+| [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
