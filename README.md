@@ -46,6 +46,7 @@ my solutions on LeetCode problems
 | [0136-single-number](https://github.com/MikhailPotter/LeetCode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikhailPotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/MikhailPotter/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
@@ -183,6 +184,7 @@ my solutions on LeetCode problems
 | [0036-valid-sudoku](https://github.com/MikhailPotter/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/MikhailPotter/LeetCode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
 ## Recursion
 |  |
 | ------- |
@@ -206,6 +208,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
 ## Database
 |  |
 | ------- |
@@ -246,4 +249,12 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/MikhailPotter/LeetCode/tree/master/0875-longest-mountain-in-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
