@@ -49,6 +49,7 @@ my solutions on LeetCode problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MikhailPotter/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MikhailPotter/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MikhailPotter/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -96,6 +97,7 @@ my solutions on LeetCode problems
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/MikhailPotter/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/MikhailPotter/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MikhailPotter/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/MikhailPotter/LeetCode/tree/master/0290-word-pattern) |
@@ -260,4 +262,8 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/MikhailPotter/LeetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
