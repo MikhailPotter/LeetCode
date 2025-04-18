@@ -35,6 +35,7 @@ my solutions on LeetCode problems
 | [0041-first-missing-positive](https://github.com/MikhailPotter/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/MikhailPotter/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MikhailPotter/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MikhailPotter/LeetCode/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/MikhailPotter/LeetCode/tree/master/0066-plus-one) |
@@ -81,6 +82,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/MikhailPotter/LeetCode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
@@ -183,6 +185,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0036-valid-sudoku](https://github.com/MikhailPotter/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/MikhailPotter/LeetCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
 ## Recursion
