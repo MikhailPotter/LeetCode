@@ -35,6 +35,7 @@ my solutions on LeetCode problems
 | [0041-first-missing-positive](https://github.com/MikhailPotter/LeetCode/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/MikhailPotter/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/MikhailPotter/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/MikhailPotter/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/MikhailPotter/LeetCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MikhailPotter/LeetCode/tree/master/0056-merge-intervals) |
@@ -121,6 +122,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MikhailPotter/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/MikhailPotter/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -172,6 +174,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/MikhailPotter/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MikhailPotter/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MikhailPotter/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MikhailPotter/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
