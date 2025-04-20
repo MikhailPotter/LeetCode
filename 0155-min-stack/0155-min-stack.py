@@ -4,17 +4,20 @@ class MinStack:
         self.values = list()
         
     def push(self, val: int) -> None:
-        self.values.append(val)
+        if self.values:
+            cur_min = min(val, self.values[-1][1])
+        else:
+            cur_min = val
+        self.values.append((val, cur_min))
 
     def pop(self) -> None:
-        self.values = self.values[:-1]
+        self.values.pop()
 
     def top(self) -> int:
-        top_val = self.values[-1:][0]
-        return top_val
+        return self.values[-1][0]
 
     def getMin(self) -> int:
-        return min(self.values)
+        return self.values[-1][1]
         
 
 
