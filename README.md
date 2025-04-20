@@ -63,6 +63,7 @@ my solutions on LeetCode problems
 | [1306-minimum-absolute-difference](https://github.com/MikhailPotter/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikhailPotter/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MikhailPotter/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [2195-time-needed-to-buy-tickets](https://github.com/MikhailPotter/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MikhailPotter/LeetCode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Two Pointers
@@ -92,6 +93,7 @@ my solutions on LeetCode problems
 | [0043-multiply-strings](https://github.com/MikhailPotter/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/MikhailPotter/LeetCode/tree/master/0067-add-binary) |
+| [2195-time-needed-to-buy-tickets](https://github.com/MikhailPotter/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MikhailPotter/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Hash Table
 |  |
@@ -309,4 +311,5 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MikhailPotter/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [2195-time-needed-to-buy-tickets](https://github.com/MikhailPotter/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
