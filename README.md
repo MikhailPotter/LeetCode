@@ -184,6 +184,7 @@ my solutions on LeetCode problems
 | [0020-valid-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/MikhailPotter/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/MikhailPotter/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/MikhailPotter/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -302,5 +303,10 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/MikhailPotter/LeetCode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/MikhailPotter/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/MikhailPotter/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MikhailPotter/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
