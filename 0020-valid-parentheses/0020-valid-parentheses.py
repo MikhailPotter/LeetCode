@@ -8,12 +8,10 @@ class Solution:
         }
 
         for c in s:
-            if c in hm.values():
-                stack.append(c)
-            elif stack and hm[c] == stack[-1]:
+            if stack and c in hm and hm[c] == stack[-1]:
                 stack.pop()
             else:
-                return False
+                stack.append(c)
         if stack:
             return False
         return True
