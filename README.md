@@ -170,6 +170,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MikhailPotter/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0092-reverse-linked-list-ii](https://github.com/MikhailPotter/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/MikhailPotter/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MikhailPotter/LeetCode/tree/master/0206-reverse-linked-list) |
