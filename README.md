@@ -171,6 +171,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MikhailPotter/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MikhailPotter/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0203-remove-linked-list-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MikhailPotter/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/MikhailPotter/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
@@ -210,6 +211,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MikhailPotter/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MikhailPotter/LeetCode/tree/master/0206-reverse-linked-list) |
 ## Greedy
 |  |
