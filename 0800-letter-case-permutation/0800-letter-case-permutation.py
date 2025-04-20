@@ -9,9 +9,13 @@ class Solution:
                 rec(cur + s[i].lower(), i + 1)
                 rec(cur + s[i].upper(), i + 1)
             else:
-                rec(cur + s[i], i + 1)
+                while i < len(s) and not s[i].isalpha():
+                    cur += s[i]
+                    i += 1
+
+                rec(cur, i)
         
-        res = list()
+        res = []
         rec('', 0)
         return res
 
