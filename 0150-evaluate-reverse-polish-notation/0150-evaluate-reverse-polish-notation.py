@@ -17,4 +17,4 @@ class Solution:
                     stack.append(int(first / second))
             else:
                 stack.append(int(token))
-        return stack[-1]
+        return stack.pop()
