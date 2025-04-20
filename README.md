@@ -143,6 +143,7 @@ my solutions on LeetCode problems
 | [0242-valid-anagram](https://github.com/MikhailPotter/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/MikhailPotter/LeetCode/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MikhailPotter/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0800-letter-case-permutation](https://github.com/MikhailPotter/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Trie
 |  |
 | ------- |
@@ -186,6 +187,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0022-generate-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
+| [0800-letter-case-permutation](https://github.com/MikhailPotter/LeetCode/tree/master/0800-letter-case-permutation) |
 ## String Matching
 |  |
 | ------- |
@@ -213,6 +215,7 @@ my solutions on LeetCode problems
 | [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MikhailPotter/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
+| [0800-letter-case-permutation](https://github.com/MikhailPotter/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Memoization
 |  |
 | ------- |
