@@ -183,6 +183,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/MikhailPotter/LeetCode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MikhailPotter/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/MikhailPotter/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/MikhailPotter/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
@@ -300,5 +301,6 @@ my solutions on LeetCode problems
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/MikhailPotter/LeetCode/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/MikhailPotter/LeetCode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
