@@ -297,6 +297,7 @@ my solutions on LeetCode problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
@@ -308,6 +309,7 @@ my solutions on LeetCode problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/MikhailPotter/LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Sliding Window
@@ -334,6 +336,7 @@ my solutions on LeetCode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
@@ -344,6 +347,7 @@ my solutions on LeetCode problems
 | [0104-maximum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
