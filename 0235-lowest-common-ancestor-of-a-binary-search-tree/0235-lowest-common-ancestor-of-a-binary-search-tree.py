@@ -11,8 +11,14 @@ class Solution:
         if root == None or p == root or q == root: 
             return root
         
-        left = self.lowestCommonAncestor(root.left, p, q)
-        right = self.lowestCommonAncestor(root.right, p, q)
+        if p.val > root.val or q.val > root.val:
+            right = self.lowestCommonAncestor(root.right, p, q)
+        else:
+            right = None
+        if p.val < root.val or q.val < root.val:
+            left = self.lowestCommonAncestor(root.left, p, q)
+        else:
+            left = None
 
         if left != None and right != None:
             return root
