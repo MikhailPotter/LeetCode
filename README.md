@@ -43,6 +43,7 @@ my solutions on LeetCode problems
 | [0074-search-a-2d-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MikhailPotter/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MikhailPotter/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/MikhailPotter/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MikhailPotter/LeetCode/tree/master/0136-single-number) |
@@ -130,6 +131,7 @@ my solutions on LeetCode problems
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/MikhailPotter/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/MikhailPotter/LeetCode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0347-top-k-frequent-elements](https://github.com/MikhailPotter/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
@@ -334,6 +336,7 @@ my solutions on LeetCode problems
 | [0100-same-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MikhailPotter/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -347,6 +350,7 @@ my solutions on LeetCode problems
 | [0100-same-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/MikhailPotter/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0226-invert-binary-tree) |
@@ -357,6 +361,7 @@ my solutions on LeetCode problems
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
