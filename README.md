@@ -197,6 +197,7 @@ my solutions on LeetCode problems
 | [0070-climbing-stairs](https://github.com/MikhailPotter/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MikhailPotter/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/MikhailPotter/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/MikhailPotter/LeetCode/tree/master/0338-counting-bits) |
 | [0875-longest-mountain-in-array](https://github.com/MikhailPotter/LeetCode/tree/master/0875-longest-mountain-in-array) |
 ## Backtracking
 |  |
@@ -235,6 +236,7 @@ my solutions on LeetCode problems
 | [0078-subsets](https://github.com/MikhailPotter/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MikhailPotter/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MikhailPotter/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/MikhailPotter/LeetCode/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/MikhailPotter/LeetCode/tree/master/0800-letter-case-permutation) |
 ## Memoization
 |  |
