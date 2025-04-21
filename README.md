@@ -293,11 +293,13 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/MikhailPotter/LeetCode/tree/master/0322-coin-change) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -314,4 +316,12 @@ my solutions on LeetCode problems
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MikhailPotter/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2195-time-needed-to-buy-tickets](https://github.com/MikhailPotter/LeetCode/tree/master/2195-time-needed-to-buy-tickets) |
+## Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 <!---LeetCode Topics End-->
