@@ -302,6 +302,7 @@ my solutions on LeetCode problems
 | [0112-path-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -345,6 +346,7 @@ my solutions on LeetCode problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -361,6 +363,7 @@ my solutions on LeetCode problems
 | [0111-minimum-depth-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MikhailPotter/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -371,6 +374,7 @@ my solutions on LeetCode problems
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MikhailPotter/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
