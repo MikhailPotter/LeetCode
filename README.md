@@ -62,6 +62,7 @@ my solutions on LeetCode problems
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MikhailPotter/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0875-longest-mountain-in-array](https://github.com/MikhailPotter/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/MikhailPotter/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1036-rotting-oranges](https://github.com/MikhailPotter/LeetCode/tree/master/1036-rotting-oranges) |
 | [1306-minimum-absolute-difference](https://github.com/MikhailPotter/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MikhailPotter/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MikhailPotter/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -225,6 +226,7 @@ my solutions on LeetCode problems
 | [0054-spiral-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MikhailPotter/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/MikhailPotter/LeetCode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/MikhailPotter/LeetCode/tree/master/1036-rotting-oranges) |
 ## Recursion
 |  |
 | ------- |
@@ -328,6 +330,7 @@ my solutions on LeetCode problems
 | [0322-coin-change](https://github.com/MikhailPotter/LeetCode/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/MikhailPotter/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/MikhailPotter/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1036-rotting-oranges](https://github.com/MikhailPotter/LeetCode/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
