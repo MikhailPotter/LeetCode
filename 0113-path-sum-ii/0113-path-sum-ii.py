@@ -11,30 +11,22 @@ class Solution:
 
         res = list()
 
-        def rec(cur_node, cur_path, cur_sum):
-            nonlocal res
-
-            cur_path.append(cur_node.val)
+        def rec(cur_node, path, cur_sum):
+            path.append(cur_node.val)
             cur_sum += cur_node.val
 
             if not cur_node.right and not cur_node.left:
                 if cur_sum == targetSum:
-                    return True, cur_path
-                else:
-                    return False, cur_path
+                    res.append(list(path))
+                path.pop() 
+                return
 
             if cur_node.right:
-                r, path = rec(cur_node.right, cur_path.copy(), cur_sum)
-                if r:
-                    res.append(path)
+                rec(cur_node.right, path, cur_sum)
             if cur_node.left:
-                l, path = rec(cur_node.left, cur_path.copy(), cur_sum)
-                if l:
-                    res.append(path)
-            
-            return False, cur_path
-        
-        b, path = rec(root, [], 0)
-        if b: 
-            res.append(path)
+                rec(cur_node.left, path, cur_sum)
+
+            path.pop()
+
+        rec(root, [], 0)
         return res            
